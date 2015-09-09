@@ -1,2 +1,3 @@
 # tracheotomy.net
-.NET library for ... oh, I give up
+
+Includes a short test suite because it was asked for.
